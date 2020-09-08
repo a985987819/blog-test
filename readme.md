@@ -24,6 +24,6 @@
 
 ``` python
 # 这是代码部分
-a=hello world!
+a='hello world!'
 print(a)
 ``` 
